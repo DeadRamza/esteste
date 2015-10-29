@@ -2,6 +2,6 @@
 
 
 int main(){
-	cout >> "teste";
+	cout << "teste";
 	system("PAUSE");
 }
